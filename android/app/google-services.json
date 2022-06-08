@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "182651136068",
+    "project_id": "psychosomatic-c518d",
+    "storage_bucket": "psychosomatic-c518d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182651136068:android:411c5485d9c49b49f4f411",
+        "android_client_info": {
+          "package_name": "com.health.psychosomatics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182651136068-t4foqu697ebnutcbih943582bvmfovog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.health.psychosomatics",
+            "certificate_hash": "2507a3a00d5fc4d45097bdb042d48a38d78a2c84"
+          }
+        },
+        {
+          "client_id": "182651136068-omfpq7n3f8jqfn0t2m6u1raqndv8s646.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Z71bva4BL6rAsZulmUZSfssb2318kZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182651136068-omfpq7n3f8jqfn0t2m6u1raqndv8s646.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
